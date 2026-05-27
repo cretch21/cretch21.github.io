@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4PNT5F6QBJ.com.sarastock.bookapp"],
+        "components": [
+          { "/": "/bookapp/share*" }
+        ]
+      }
+    ]
+  }
+}
