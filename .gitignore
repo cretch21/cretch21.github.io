@@ -1,0 +1,4 @@
+# Secrets (agent guards, INIT-040)
+.env
+.env.*
+!.env.example
